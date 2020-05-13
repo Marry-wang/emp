@@ -5,6 +5,6 @@
 * @Last Modified time: 2020-05-13 10:15:49
 */
 
-public class emp {
+public class Emp {
     private int id;
 }
